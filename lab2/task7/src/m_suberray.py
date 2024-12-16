@@ -1,5 +1,4 @@
 from lab2.task7.utils import read, write
-#:)
 
 def find_max_subarray(n, array):
     max_sum = 0
